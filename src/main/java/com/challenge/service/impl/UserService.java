@@ -30,4 +30,7 @@ public class UserService implements UserServiceInterface {
         return userRepository.findByCandidatesIdCompanyId(companyId);
     }
 
+    public Optional<User> findByEmail(String email) {
+        return userRepository.findByEmail(email);
+    }
 }
