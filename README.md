@@ -1,5 +1,22 @@
-# Oauth2 com Spring
+# Desafio Oauth2 com Spring
 
+<p>
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/my-study-area/desafio-aceleradev-java-oauth2-spring">
+    <a href="https://github.com/my-study-area">
+        <img alt="Made by" src="https://img.shields.io/badge/made%20by-adriano%20avelino-gree">
+    </a>
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/my-study-area/desafio-aceleradev-java-oauth2-spring">
+    <a href="https://github.com/EliasGcf/readme-template/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/my-study-area/desafio-aceleradev-java-oauth2-spring">
+    </a>
+</p>
+
+O Aceleradev é um treinamento da Codenation com duração de 10 semanas de imersão em programação, no meu caso Java online. Esse é o desafio do sétimo módulo que tem como conteúdos:
+
+- Swagger com SpringFox
+- Spring Security com Oauth2
+
+## Desafio
 Neste desafio você receberá um projeto Maven pré-configurado com Springboot, Spring-JPA, Spring-WEB, Spring-Security e banco de dados H2.
 
 Utilize a lib [Spring Security OAuth2 AutoConfigure](https://mvnrepository.com/artifact/org.springframework.security.oauth.boot/spring-security-oauth2-autoconfigure/2.1.6.RELEASE) para utilizar Oauth2 no seu projeto spring.
